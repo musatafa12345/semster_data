@@ -47,6 +47,8 @@ void student :: display(){
 
 main(){
 	
+	cout<<"hello";
+	
 	student s1;
 	s1.getinformation();
 	s1.display();
