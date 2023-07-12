@@ -1,0 +1,10 @@
+a\li  2.9
+hamza  3.98
+gulfam  3.89
+ali  3.67
+usman  3.65
+umair  3.3
+ali raza  3.2
+ahmad  2.9
+kafeel  2.8
+aleem 3.01
